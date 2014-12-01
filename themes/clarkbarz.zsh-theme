@@ -5,5 +5,5 @@ PROMPT='%{$fg[white]%}%n%{$reset_color%}%{$fg[yellow]%}λ%{$fg[white]%}%M%{$rese
 
 ZSH_THEME_GIT_PROMPT_PREFIX="%{$fg_bold[white]%}"
 ZSH_THEME_GIT_PROMPT_SUFFIX="%{$reset_color%}%{$fg[yellow]%}"
-ZSH_THEME_GIT_PROMPT_DIRTY="%{$reset_color%}:%{$fg[red]%}✗%{$reset_color%}"
-ZSH_THEME_GIT_PROMPT_CLEAN="%{$reset_color%}:%{$fg[green]%}✔%{$reset_color%}"
+ZSH_THEME_GIT_PROMPT_DIRTY="%{$reset_color%} %{$fg[red]%}✗%{$reset_color%}"
+ZSH_THEME_GIT_PROMPT_CLEAN="%{$reset_color%} %{$fg[green]%}✔%{$reset_color%}"
